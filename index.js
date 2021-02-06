@@ -1,6 +1,6 @@
 const express = require("express");
 const router = require("./routes/consult");
-console.log("e");
+console.log("ess");
 // Servidor express
 const app = express();
 
