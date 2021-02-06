@@ -1,6 +1,6 @@
 const express = require("express");
 const router = require("./routes/consult");
-console.log("fsa");
+console.log("ffassa");
 // Servidor express
 const app = express();
 
